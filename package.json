@@ -2,7 +2,6 @@
   "name": "koa-component-front",
   "version": "1.0.0",
   "description": "koa项目模板库",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +19,9 @@
   },
   "homepage": "https://github.com/zhangwenbin0516/koa-component-front#readme",
   "dependencies": {
-    "koa": "^2.6.2"
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
   }
 }
