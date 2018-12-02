@@ -1,6 +1,6 @@
 package-lock.json
-.idea
+.idea/
 /node_modules/
 /dist/
 .project
-.vscode
+.vscode/
