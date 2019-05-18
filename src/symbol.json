@@ -1,0 +1,526 @@
+[
+  {
+    "name": "´",
+    "value": "&acute;"
+  },
+  {
+    "name": "©",
+    "value": "&copy;"
+  },
+  {
+    "name": ">",
+    "value": "&gt;"
+  },
+  {
+    "name": "µ",
+    "value": "&micro;"
+  },
+  {
+    "name": "®",
+    "value": "&reg;"
+  },
+  {
+    "name": "",
+    "value": "&amp;"
+  },
+  {
+    "name": "°",
+    "value": "&deg;"
+  },
+  {
+    "name": "¡",
+    "value": "&iexcl;"
+  },
+  {
+    "name": "",
+    "value": "&nbsp;"
+  },
+  {
+    "name": "»",
+    "value": "&raquo;"
+  },
+  {
+    "name": "",
+    "value": "&brvbar;"
+  },
+  {
+    "name": "÷",
+    "value": "&divide;"
+  },
+  {
+    "name": "¿",
+    "value": "&iquest;"
+  },
+  {
+    "name": "¬",
+    "value": "&not;"
+  },
+  {
+    "name": "§",
+    "value": "&sect;"
+  },
+  {
+    "name": "",
+    "value": "&bull;"
+  },
+  {
+    "name": "½",
+    "value": "&frac12;"
+  },
+  {
+    "name": "«",
+    "value": "&laquo;"
+  },
+  {
+    "name": "¶",
+    "value": "&para;"
+  },
+  {
+    "name": "¨",
+    "value": "&uml;"
+  },
+  {
+    "name": "",
+    "value": "&cedil;"
+  },
+  {
+    "name": "¼",
+    "value": "&frac14;"
+  },
+  {
+    "name": "<",
+    "value": "&lt;"
+  },
+  {
+    "name": "±",
+    "value": "&plusmn;"
+  },
+  {
+    "name": "×",
+    "value": "&times;"
+  },
+  {
+    "name": "",
+    "value": "&cent;"
+  },
+  {
+    "name": "¾",
+    "value": "&frac34;"
+  },
+  {
+    "name": "¯",
+    "value": "&macr;"
+  },
+  {
+    "name": "“",
+    "value": "&quot;"
+  },
+  {
+    "name": "™",
+    "value": "&trade;"
+  },
+  {
+    "name": "",
+    "value": "&euro;"
+  },
+  {
+    "name": "£",
+    "value": "&pound;"
+  },
+  {
+    "name": "¥",
+    "value": "&yen;"
+  },
+  {
+    "name": "",
+    "value": "&bdquo;"
+  },
+  {
+    "name": "…",
+    "value": "&hellip;"
+  },
+  {
+    "name": "·",
+    "value": "&middot;"
+  },
+  {
+    "name": "›",
+    "value": "&rsaquo;"
+  },
+  {
+    "name": "ª",
+    "value": "&ordf;"
+  },
+  {
+    "name": "",
+    "value": "&circ;"
+  },
+  {
+    "name": "“",
+    "value": "&ldquo;"
+  },
+  {
+    "name": "—",
+    "value": "&mdash;"
+  },
+  {
+    "name": "’",
+    "value": "&rsquo;"
+  },
+  {
+    "name": "º",
+    "value": "&ordm;"
+  },
+  {
+    "name": "",
+    "value": "&dagger;"
+  },
+  {
+    "name": "‹",
+    "value": "&lsaquo;"
+  },
+  {
+    "name": "–",
+    "value": "&ndash;"
+  },
+  {
+    "name": "‚",
+    "value": "&sbquo;"
+  },
+  {
+    "name": "”",
+    "value": "&rdquo;"
+  },
+  {
+    "name": "",
+    "value": "&Dagger;"
+  },
+  {
+    "name": "‘",
+    "value": "&lsquo;"
+  },
+  {
+    "name": "‰",
+    "value": "&permil;"
+  },
+  {
+    "name": "",
+    "value": "&shy;"
+  },
+  {
+    "name": "˜",
+    "value": "&tilde;"
+  },
+  {
+    "name": "",
+    "value": "&asymp;"
+  },
+  {
+    "name": "⁄",
+    "value": "&frasl;"
+  },
+  {
+    "name": "←",
+    "value": "&larr;"
+  },
+  {
+    "name": "∂",
+    "value": "&part;"
+  },
+  {
+    "name": "♠",
+    "value": "&spades;"
+  },
+  {
+    "name": "",
+    "value": "&cap;"
+  },
+  {
+    "name": "≥",
+    "value": "&ge;"
+  },
+  {
+    "name": "≤",
+    "value": "&le;"
+  },
+  {
+    "name": "″",
+    "value": "&Prime;"
+  },
+  {
+    "name": "∑",
+    "value": "&sum;"
+  },
+  {
+    "name": "",
+    "value": "&clubs;"
+  },
+  {
+    "name": "↔",
+    "value": "&harr;"
+  },
+  {
+    "name": "◊",
+    "value": "&loz;"
+  },
+  {
+    "name": "′",
+    "value": "&prime;"
+  },
+  {
+    "name": "↑",
+    "value": "&uarr;"
+  },
+  {
+    "name": "",
+    "value": "&darr;"
+  },
+  {
+    "name": "♥",
+    "value": "&hearts;"
+  },
+  {
+    "name": "−",
+    "value": "&minus;"
+  },
+  {
+    "name": "∏",
+    "value": "&prod;"
+  },
+  {
+    "name": "‍",
+    "value": "&zwj;"
+  },
+  {
+    "name": "",
+    "value": "&diams;"
+  },
+  {
+    "name": "∞",
+    "value": "&infin;"
+  },
+  {
+    "name": "≠",
+    "value": "&ne;"
+  },
+  {
+    "name": "√",
+    "value": "&radic;"
+  },
+  {
+    "name": "‌",
+    "value": "&zwnj;"
+  },
+  {
+    "name": "",
+    "value": "&equiv;"
+  },
+  {
+    "name": "∫",
+    "value": "&int;"
+  },
+  {
+    "name": "‾",
+    "value": "&oline;"
+  },
+  {
+    "name": "→",
+    "value": "&rarr;"
+  },
+  {
+    "name": "",
+    "value": "&alpha;"
+  },
+  {
+    "name": "η",
+    "value": "&eta;"
+  },
+  {
+    "name": "μ",
+    "value": "&mu;"
+  },
+  {
+    "name": "π",
+    "value": "&pi;"
+  },
+  {
+    "name": "θ",
+    "value": "&theta;"
+  },
+  {
+    "name": "",
+    "value": "&beta;"
+  },
+  {
+    "name": "γ",
+    "value": "&gamma;"
+  },
+  {
+    "name": "ν",
+    "value": "&nu;"
+  },
+  {
+    "name": "ψ",
+    "value": "&psi;"
+  },
+  {
+    "name": "υ",
+    "value": "&upsilon;"
+  },
+  {
+    "name": "",
+    "value": "&chi;"
+  },
+  {
+    "name": "ι",
+    "value": "&iota;"
+  },
+  {
+    "name": "ω",
+    "value": "&omega;"
+  },
+  {
+    "name": "ρ",
+    "value": "&rho;"
+  },
+  {
+    "name": "ξ",
+    "value": "&xi;"
+  },
+  {
+    "name": "",
+    "value": "&delta;"
+  },
+  {
+    "name": "κ",
+    "value": "&kappa;"
+  },
+  {
+    "name": "ο",
+    "value": "&omicron;"
+  },
+  {
+    "name": "σ",
+    "value": "&sigma;"
+  },
+  {
+    "name": "ζ",
+    "value": "&zeta;"
+  },
+  {
+    "name": "",
+    "value": "&epsilon;"
+  },
+  {
+    "name": "λ",
+    "value": "&lambda;"
+  },
+  {
+    "name": "φ",
+    "value": "&phi;"
+  },
+  {
+    "name": "τ",
+    "value": "&tau;"
+  },
+  {
+    "name": "",
+    "value": "&Alpha;"
+  },
+  {
+    "name": "Η",
+    "value": "&Eta;"
+  },
+  {
+    "name": "Μ",
+    "value": "&Mu;"
+  },
+  {
+    "name": "Π",
+    "value": "&Pi;"
+  },
+  {
+    "name": "Θ",
+    "value": "&Theta;"
+  },
+  {
+    "name": "",
+    "value": "&Beta;"
+  },
+  {
+    "name": "Γ",
+    "value": "&Gamma;"
+  },
+  {
+    "name": "Ν",
+    "value": "&Nu;"
+  },
+  {
+    "name": "Ψ",
+    "value": "&Psi;"
+  },
+  {
+    "name": "Υ",
+    "value": "&Upsilon;"
+  },
+  {
+    "name": "",
+    "value": "&Chi;"
+  },
+  {
+    "name": "Ι",
+    "value": "&Iota;"
+  },
+  {
+    "name": "Ω",
+    "value": "&Omega;"
+  },
+  {
+    "name": "Ρ",
+    "value": "&Rho;"
+  },
+  {
+    "name": "Ξ",
+    "value": "&Xi;"
+  },
+  {
+    "name": "",
+    "value": "&Delta;"
+  },
+  {
+    "name": "Κ",
+    "value": "&Kappa;"
+  },
+  {
+    "name": "Ο",
+    "value": "&Omicron;"
+  },
+  {
+    "name": "Σ",
+    "value": "&Sigma;"
+  },
+  {
+    "name": "Ζ",
+    "value": "&Zeta;"
+  },
+  {
+    "name": "",
+    "value": "&Epsilon;"
+  },
+  {
+    "name": "Λ",
+    "value": "&Lambda;"
+  },
+  {
+    "name": "Φ",
+    "value": "&Phi;"
+  },
+  {
+    "name": "Τ",
+    "value": "&Tau;"
+  },
+  {
+    "name": "ς",
+    "value": "&sigmaf;"
+  }
+]
